@@ -20,14 +20,13 @@
         </p>
       </div>
       <div class= "div-left">
-        <form action="">
-          <h1 class= "heading1">Form</h1>
-          <!-- <label>Name</label> -->
-          <input class= "input" placeholder="Name"/>
-          <input class= "input" placeholder="Email"/>
-          <input class= "input" placeholder="Password"/>
-          <input class= "input" placeholder="Age"/>
-          <button class= "btn">
+        <form>
+          <h1 class="heading1">Form</h1>
+          <input class="input" placeholder="Name"/>
+          <input class="input" placeholder="Email"/>
+          <input class="input" placeholder="Password"/>
+          <input class="input" placeholder="Age"/>
+          <button class="btn">
             Submit
           </button>
         </form>
